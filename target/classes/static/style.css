@@ -1,0 +1,5 @@
+/* Custom styles can be added here if needed, but Tailwind handles most of it. */
+/* For example, if you want a specific font: */
+body {
+    font-family: 'Inter', sans-serif; /* Google Fonts'tan Inter fontunu ekleyebilirsiniz */
+}
